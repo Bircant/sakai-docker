@@ -1,0 +1,2 @@
+set JAVA_OPTS=-server -Xmx1028m -XX:MaxMetaspaceSize=512m -Dorg.apache.jasper.compiler.Parser.STRICT_QUOTE_ESCAPING=false -Djava.awt.headless=true -Dcom.sun.management.jmxremote -Dhttp.agent=Sakai -Djava.util.Arrays.useLegacyMergeSort=true -Dfile.encoding=UTF8 -Dhttp.agent=Sakai -Dsakai.demo=true  -Dhttp.proxyHost=cache.some.domain -Dhttp.proxyPort=8080 -Dsun.lang.ClassLoader.allowArraySyntax=true
+    
